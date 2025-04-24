@@ -2,10 +2,6 @@
 
 <img src="https://img.shields.io/badge/Welcome%20to%20my%20GitHub!-I'm%20a%20passionate%20developer%20who%20loves%20building%20clean,%20modern,%20and%20responsive%20web%20applications.%20Always%20exploring%20new%20tools%20and%20improving%20my%20skills.%20🚀-green?style=for-the-badge" alt="Welcome Badge" width="1200" height="40">
 
-<p align="center">
-  <img src="https://github.com/Phang-Viphath/Phang-Viphath/blob/main/Logo_Me1.png" alt="Phang Viphath Logo" width="1200" height="450"/>
-</p>
-
 ---
 
 <img src="https://img.shields.io/badge/🌐_Connect_With_Me-1E40AF?style=for-the-badge&logoColor=white" alt="Connect With Me" width="250" height="30">
@@ -63,6 +59,12 @@
 ![...and_always_learning_more!](https://img.shields.io/badge/...and_always_learning_more!-white?style=for-the-badge&labelColor=2d2d2d&color=32CD32)
 
 ---
+
+<img src="https://img.shields.io/badge/Cover_Profile-FFA500?style=for-the-badge&logoColor=white" alt="Connect With Me" width="250" height="30">
+
+<p align="center">
+  <img src="https://github.com/Phang-Viphath/Phang-Viphath/blob/main/Logo_Me1.png" alt="Phang Viphath Logo" width="1200" height="450"/>
+</p>
 
 ## 
 <img src="https://img.shields.io/badge/📊_GitHub_Stats-FFA500?style=for-the-badge&logoColor=white" alt="Connect With Me" width="250" height="30">

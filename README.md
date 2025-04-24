@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Phang-Viphath/Phang-Viphath/blob/main/Logo_Me1.png" alt="Phang Viphath Logo" width="1000" />
+  <img src="https://github.com/Phang-Viphath/Phang-Viphath/blob/main/Logo_Me1.png" alt="Phang Viphath Logo" width="1200" height="450"/>
 </p>
 
 <img src="https://img.shields.io/badge/👋_Hi,_I'm_Phang--Viphath_😊-14b8a6?style=for-the-badge&logoColor=white" alt="Hi, I'm Phang-Viphath" width="400" height="50">

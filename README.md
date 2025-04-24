@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://github.com/Phang-Viphath/Phang-Viphath/blob/main/Logo_Me1.png" alt="Phang Viphath Logo" width="1200" height="450"/>
-</p>
-
 <img src="https://img.shields.io/badge/👋_Hi,_I'm_Phang--Viphath_😊-14b8a6?style=for-the-badge&logoColor=white" alt="Hi, I'm Phang-Viphath" width="400" height="50">
-
 
 <img src="https://img.shields.io/badge/Welcome%20to%20my%20GitHub!-I'm%20a%20passionate%20developer%20who%20loves%20building%20clean,%20modern,%20and%20responsive%20web%20applications.%20Always%20exploring%20new%20tools%20and%20improving%20my%20skills.%20🚀-green?style=for-the-badge" alt="Welcome Badge" width="1200" height="40">
 
+<p align="center">
+  <img src="https://github.com/Phang-Viphath/Phang-Viphath/blob/main/Logo_Me1.png" alt="Phang Viphath Logo" width="1200" height="450"/>
+</p>
 
 ---
 

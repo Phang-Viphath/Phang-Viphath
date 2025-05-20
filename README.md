@@ -65,7 +65,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg](https://imgs.search.brave.com/3X6JPPgOVoyMxJB7sEiUz0GwPVT7qhH-dQDoWxNEq3U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE0Yzg3YWZkZWUx/NWQyOTA1MDA3Yzcu/cG5n)" alt="laravel" width="40" height="40" />
+      <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />

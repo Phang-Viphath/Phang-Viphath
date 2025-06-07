@@ -79,15 +79,6 @@
 
 ---
 
-<!-- Profile Section -->
-<img src="https://img.shields.io/badge/Cover_Profile-FFA500?style=for-the-badge&logoColor=white" alt="Cover Profile" style="max-width: 100%; height: auto;">
-
-<p align="center">
-  <img src="https://github.com/Phang-Viphath/Phang-Viphath/blob/main/Logo_Me1.png" alt="Phang Viphath Logo" style="border-radius: 100px; max-width: 100%; height: auto;" />
-</p>
-
----
-
 <!-- GitHub Stats -->
 <img src="https://img.shields.io/badge/📊_GitHub_Stats-FFA500?style=for-the-badge&logoColor=white" alt="GitHub Stats" style="max-width: 100%; height: auto;">
 

@@ -85,3 +85,12 @@
 ![Phang-Viphath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phang-Viphath&hide_border=false&include_all_commits=true&count_private=true&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=0d1117)
 ![](https://nirzak-streak-stats.vercel.app/?user=Phang-Viphath&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phang-Viphath&theme=dark&hide_border=false&layout=compact)
+
+---
+
+<!-- Profile Section -->
+<img src="https://img.shields.io/badge/Cover_Profile-FFA500?style=for-the-badge&logoColor=white" alt="Cover Profile" style="max-width: 100%; height: auto;">
+
+<p align="center">
+  <img src="https://github.com/Phang-Viphath/Phang-Viphath/blob/main/Logo_Me1.png" alt="Phang Viphath Logo" style="border-radius: 100px; max-width: 100%; height: auto;" />
+</p>

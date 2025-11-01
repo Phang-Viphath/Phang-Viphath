@@ -62,11 +62,17 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" />
   </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />
+  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
   </a>
   <a href="https://laravel.com/" target="_blank">
-      <img src="https://github.com/Phang-Viphath/Phang-Viphath/blob/main/laravel.png" style="width: 38px; height: 38px;" alt="Laravel" />
+    <img src="https://github.com/Phang-Viphath/Phang-Viphath/blob/main/laravel.png" style="width: 38px; height: 38px;" alt="Laravel" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />

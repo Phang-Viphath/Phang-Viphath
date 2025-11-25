@@ -89,6 +89,8 @@
 <!-- GitHub Stats -->
 <img src="https://img.shields.io/badge/📊_GitHub_Stats-FFA500?style=for-the-badge&logoColor=white" alt="GitHub Stats" style="max-width: 100%; height: auto;">
 
-![Phang-Viphath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phang-Viphath&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Phang-Viphath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phang-Viphath&cache_seconds=86400&hide_border=false&include_all_commits=true&count_private=true&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=0d1117)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Phang-Viphath&theme=dark)](https://git.io/streak-stats)
+![Phang-Viphath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phang-Viphath&custom_title=Phang-Viphath's%20GitHub%20Stats&hide_border=false&include_all_commits=true&count_private=true&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=0d1117)
 ![](https://nirzak-streak-stats.vercel.app/?user=Phang-Viphath&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phang-Viphath&theme=dark&hide_border=false&layout=compact)

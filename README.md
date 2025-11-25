@@ -3,24 +3,24 @@
 <img src="https://img.shields.io/badge/Welcome%20to%20my%20GitHub!-I'm%20a%20passionate%20developer%20who%20loves%20building%20clean,%20modern,%20and%20responsive%20web%20applications.%20Always%20exploring%20new%20tools%20and%20improving%20my%20skills.%20🚀-green?style=for-the-badge" alt="Welcome Badge" style="max-width: 100%; height: 30px;">
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Phang-Viphath&color=brightgreen" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=Phang-Viphath&color=brightgreen" alt="Profile Views" style="max-width: 100%; height: auto;">
 
 ---
 
 <!-- Social Media -->
-<img src="https://img.shields.io/badge/🌐_Connect_With_Me-1E40AF?style=for-the-badge&logoColor=white" alt="Connect With Me">
+<img src="https://img.shields.io/badge/🌐_Connect_With_Me-1E40AF?style=for-the-badge&logoColor=white" alt="Connect With Me" style="max-width: 100%; height: auto;">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/phea.viphat)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/oun30446)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@phathtech)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phang-Viphath)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+<a href="https://www.facebook.com/phea.viphat" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/oun30446" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.tiktok.com/@phathtech" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"></a>
+<a href="https://github.com/Phang-Viphath" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ---
 
 <!-- Tech Stack -->
-<img src="https://img.shields.io/badge/💻_Tech_Stack-9B4D96?style=for-the-badge&logoColor=white" alt="Tech Stack">
+<img src="https://img.shields.io/badge/💻_Tech_Stack-9B4D96?style=for-the-badge&logoColor=white" alt="Tech Stack" style="max-width: 100%; height: auto;">
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,8 +30,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![Vite](https://img.shields.io/badge/Vite-%2523646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-%252335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%25234FC08D)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -72,7 +72,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" />
+    <img src="https://github.com/Phang-Viphath/Phang-Viphath/blob/main/laravel.png" style="width: 38px; height: 38px;" alt="Laravel" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
@@ -87,12 +87,8 @@
 ---
 
 <!-- GitHub Stats -->
-<img src="https://img.shields.io/badge/📊_GitHub_Stats-FFA500?style=for-the-badge&logoColor=white" alt="GitHub Stats">
+<img src="https://img.shields.io/badge/📊_GitHub_Stats-FFA500?style=for-the-badge&logoColor=white" alt="GitHub Stats" style="max-width: 100%; height: auto;">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phang-Viphath&hide_border=false&include_all_commits=true&count_private=true&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=0d1117" alt="GitHub Stats" style="max-width: 100%;">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phang-Viphath&theme=dark&hide_border=false" alt="GitHub Streak" style="max-width: 100%;">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phang-Viphath&theme=dark&hide_border=false&layout=compact" alt="Top Languages" style="max-width: 100%;">
-</div>
+![Phang-Viphath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phang-Viphath&hide_border=false&include_all_commits=true&count_private=true&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=0d1117)
+![](https://nirzak-streak-stats.vercel.app/?user=Phang-Viphath&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phang-Viphath&theme=dark&hide_border=false&layout=compact)

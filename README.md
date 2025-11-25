@@ -92,4 +92,3 @@
 [![Phang-Viphath's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Phang-Viphath&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://nirzak-streak-stats.vercel.app/?user=Phang-Viphath&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phang-Viphath&theme=dark&hide_border=false&layout=compact)
-![Phang-Viphath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phang-Viphath&show_icons=true&hide_title=false&count_private=true&include_all_commits=true)

@@ -21,19 +21,19 @@
   <a href="https://www.facebook.com/phea.viphat" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://www.instagram.com/oun30446" target="_blank">
+  <a href="https://www.instagram.com/phathdev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.tiktok.com/@phathtech" target="_blank">
+  <a href="https://www.tiktok.com/@phathdev" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
   </a>
   <a href="https://github.com/Phang-Viphath" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:viphathphang7@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/phea-vi-phath" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
